@@ -1,0 +1,6 @@
+{
+  "name": "RajCalc",
+  "description": "Smart Calculations. Simple Answers. Premium financial, loan, tax, investment, salary, and everyday calculator platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
